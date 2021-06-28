@@ -145,7 +145,7 @@
       "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned",
       "value": "True",
       "required": false
-    }
+    },
 	"REDIS_URL": {
       "description": "This is required redis uri in this format redis://:key@instance_name",
       "value": "",
