@@ -1,6 +1,4 @@
-# sapiosexual // @sapio6ualbot  [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/cc5eb52c903342e19c309e11df942495)](https://www.codacy.com/gh/gizmostuffin/sapiosexual/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gizmostuffin/sapiosexual&amp;utm_campaign=Badge_Grade)
-
-sapiosexual make your group management fun and easy!
+# sapiosexual // @sapio6ualbot
 She have lots of handy features, such as flood control, a warning system, a note keeping system, and even replies on predetermined filters.
 
 ## Installation
