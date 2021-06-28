@@ -1,0 +1,7 @@
+if [ -f sapiosexual.session ]; then
+    kill $(pgrep -f 'python3 -m sapiosexual')
+    rm -f sapiosexual.session-journal sapiosexual.session
+fi
+
+# start
+python3 -m sapiosexual
